@@ -322,7 +322,7 @@ optimizer.step()
 ###     Part 4 : Torch Training Classifier  ###
 ###############################################
 
-#sdads
+#sera que si
 
 import torch
 import torchvision
