@@ -322,6 +322,8 @@ optimizer.step()
 ###     Part 4 : Torch Training Classifier  ###
 ###############################################
 
+#sera que si
+
 import torch
 import torchvision
 import torchvision.transforms as transforms
