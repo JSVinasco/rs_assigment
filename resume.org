@@ -1,0 +1,46 @@
+
+** Resume assigment
+
+*** Orfeo Toolbox Worshop
+
+
+**** Orfeo Toolbox App-Python
+
+**** Orfeo ToolBox internals                                         :slides:
+
+
+**** Orfeo Toolbox Classification
+
+
+
+*** Monteverdi use
+
+
+
+
+*** Rasterio
+
+
+
+
+*** Pytorch
+
+
+
+*** Goals and data
+**** Goals
+     - Understand OTB's transparent machinery
+     - Influence the data processing pipeline
+     - Know where to find important information
+
+**** Data
+
+     The data are in the ~Data/internals/~ folder.
+
+*** Outline
+    The outline for this workshop is as follows:
+    1. Encoding images
+    2. ~geom~ files
+    3. Extended filenames
+    4. Streaming
+    5. Multi-threading
