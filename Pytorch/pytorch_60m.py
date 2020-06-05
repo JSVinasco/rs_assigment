@@ -15,7 +15,8 @@ import torch
 
 
 import os
-os.chdir('/home/juan/Documentos/cesbio/assigments/Code/')
+#os.chdir('/home/juan/Documentos/cesbio/assigments/Code/')
+os.chdir('E:/CESBIO/preparation/rs_assigment/Pytorch/')
 
 ###################################
 ###     Part 1 : Torch Tensors  ###
@@ -253,6 +254,7 @@ print(len(params))
 print(params[0].size()) # conv1's .weight
 
 input = torch.rand(1, 1, 32, 32)
+input2 = torch.reshape(input,(32,32,1,1))
 out = net(input)
 print(out)
 
